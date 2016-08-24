@@ -1,0 +1,14 @@
+layout_spectrum: 0.17082625976763666
+typography_spectrum: 0.18733189767226577
+color:
+  brandStrength: 0.3706171871162951
+  lightness: 0.06814295961521566
+  saturation: 0.4947533546946943
+  rhythmicContrast: 0.3788482737727463
+  brandColors:
+    - '#5B0707'
+    - '#BAAEA2'
+    - '#382F27'
+    - '#656257'
+    - '#81411C'
+name: Ben's Site

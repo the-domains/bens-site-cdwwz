@@ -6,9 +6,9 @@ color:
   saturation: 0.4947533546946943
   rhythmicContrast: 0.3788482737727463
   brandColors:
-    - '#5B0707'
-    - '#BAAEA2'
-    - '#382F27'
-    - '#656257'
-    - '#81411C'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Ben's Site
